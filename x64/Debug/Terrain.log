@@ -1,0 +1,22 @@
+﻿  graphics.cpp
+graphics.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutKeyboardFunc referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutBitmapCharacter referenced in function "void __cdecl DrawText(double,double,char const *)" (?DrawText@@YAXNNPEBD@Z)
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutGameModeString referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol __imp_glutEnterGameMode referenced in function main
+graphics.obj : error LNK2019: unresolved external symbol "public: __cdecl Cell::Cell(void)" (??0Cell@@QEAA@XZ) referenced in function "void __cdecl `dynamic initializer for 'gCell''(void)" (??__EgCell@@YAXXZ)
+graphics.obj : error LNK2019: unresolved external symbol "public: void __cdecl Cell::Draw(int,int)" (?Draw@Cell@@QEAAXHH@Z) referenced in function "void __cdecl InitializeMyStuff(void)" (?InitializeMyStuff@@YAXXZ)
+graphics.obj : error LNK2019: unresolved external symbol "public: int __cdecl Cell::getWIDTH(void)" (?getWIDTH@Cell@@QEAAHXZ) referenced in function "void __cdecl InitializeMyStuff(void)" (?InitializeMyStuff@@YAXXZ)
+graphics.obj : error LNK2019: unresolved external symbol "public: int __cdecl Cell::getHEIGHT(void)" (?getHEIGHT@Cell@@QEAAHXZ) referenced in function "void __cdecl InitializeMyStuff(void)" (?InitializeMyStuff@@YAXXZ)
+glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\bcser\Desktop\Jessica\Terrain\x64\Debug\Terrain.exe : fatal error LNK1120: 19 unresolved externals

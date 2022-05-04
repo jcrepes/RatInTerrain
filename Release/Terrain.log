@@ -1,0 +1,24 @@
+﻿  cell.cpp
+  graphics.cpp
+C:\Users\bcser\Desktop\Jessica\Terrain\graphics.cpp(122,13): warning C4309: 'argument': truncation of constant value
+  rat.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+glut32.lib(glut32.dll) : error LNK2026: module unsafe for SAFESEH image.
+C:\Users\bcser\Desktop\Jessica\Terrain\Release\Terrain.exe : fatal error LNK1281: Unable to generate SAFESEH image.
